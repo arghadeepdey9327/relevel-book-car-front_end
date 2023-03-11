@@ -1,0 +1,36 @@
+.form{
+    margin-top:3%;
+}
+.form-h1,.form-h5{
+    text-align: center;
+}
+.first{
+    margin:1% 0 0 10%;
+    width: 80%;
+}
+.blue{
+    color: blue;
+}
+.forgot{
+    margin-left: 0.50%;
+}
+/* .round-border{
+
+} */
+.btn{
+    background-color: blue;
+color: white;
+text-align: center;
+}
+.addRide{
+    border-radius: 10%;
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-right: 10%;   
+}
+.background{
+    position:absolute;
+    z-index: -1;
+    height:50%;
+    width:100%;
+}
